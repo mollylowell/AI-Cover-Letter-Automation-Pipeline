@@ -233,8 +233,3 @@ Full process design documentation is available in the repository across four mil
 
 ---
 
-## Related Project
-
-This pipeline's design methodology was directly applied to the **Synchrony Financial RCSA Compliance Documentation System** — a production-grade implementation using Claude Agent Skills architecture (SKILL.md + Python scripts + structured assets).
-
-→ [Synchrony Financial RCSA SKILL](https://github.com/mollylowell/Synchrony-Financial-RCSA-SKILL)
